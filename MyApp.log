@@ -1,0 +1,6 @@
+2024-08-07 17:14:04,526 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils       - Could not detect default configuration classes for test class [com.log.JrtpLoggingApplicationTests]: JrtpLoggingApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-08-07 17:14:04,808 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper        - Found @SpringBootConfiguration com.log.JrtpLoggingApplication for test class com.log.JrtpLoggingApplicationTests
+2024-08-07 17:14:05,143 [main] INFO  o.s.b.d.r.RestartApplicationListener               - Restart disabled due to context in which it is running
+2024-08-07 17:14:05,628 [main] INFO  com.log.JrtpLoggingApplicationTests                - Starting JrtpLoggingApplicationTests using Java 17.0.9 with PID 8500 (started by BP 015 in C:\Users\BP 015\eclipse-workspace\JRTP-Logging)
+2024-08-07 17:14:05,646 [main] INFO  com.log.JrtpLoggingApplicationTests                - No active profile set, falling back to 1 default profile: "default"
+2024-08-07 17:14:12,009 [main] INFO  com.log.JrtpLoggingApplicationTests                - Started JrtpLoggingApplicationTests in 6.889 seconds (process running for 10.501)

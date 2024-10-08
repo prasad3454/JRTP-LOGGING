@@ -1,0 +1,232 @@
+2024-08-05 11:15:34,906 [restartedMain] INFO  com.log.JrtpLoggingApplication                     - Starting JrtpLoggingApplication using Java 17.0.9 with PID 5532 (C:\Users\BP 015\eclipse-workspace\JRTP-Logging\target\classes started by BP 015 in C:\Users\BP 015\eclipse-workspace\JRTP-Logging)
+2024-08-05 11:15:34,912 [restartedMain] INFO  com.log.JrtpLoggingApplication                     - No active profile set, falling back to 1 default profile: "default"
+2024-08-05 11:15:34,989 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-08-05 11:15:34,990 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-08-05 11:15:36,517 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port 8090 (http)
+2024-08-05 11:15:36,536 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8090"]
+2024-08-05 11:15:36,539 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2024-08-05 11:15:36,539 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 11:15:36,661 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2024-08-05 11:15:36,661 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 1670 ms
+2024-08-05 11:15:37,212 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2024-08-05 11:15:37,231 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8090"]
+2024-08-05 11:15:37,257 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port 8090 (http) with context path '/'
+2024-08-05 11:15:37,269 [restartedMain] INFO  com.log.JrtpLoggingApplication                     - Started JrtpLoggingApplication in 2.919 seconds (process running for 4.435)
+2024-08-05 11:16:08,888 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 11:16:08,888 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2024-08-05 11:16:08,890 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 1 ms
+2024-08-05 11:16:33,225 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-08-05 11:16:33,230 [Thread-5] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-8090"]
+2024-08-05 11:16:33,484 [restartedMain] INFO  com.log.JrtpLoggingApplication                     - Starting JrtpLoggingApplication using Java 17.0.9 with PID 5532 (C:\Users\BP 015\eclipse-workspace\JRTP-Logging\target\classes started by BP 015 in C:\Users\BP 015\eclipse-workspace\JRTP-Logging)
+2024-08-05 11:16:33,485 [restartedMain] INFO  com.log.JrtpLoggingApplication                     - No active profile set, falling back to 1 default profile: "default"
+2024-08-05 11:16:33,776 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port 8090 (http)
+2024-08-05 11:16:33,777 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8090"]
+2024-08-05 11:16:33,778 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2024-08-05 11:16:33,778 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 11:16:33,802 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2024-08-05 11:16:33,802 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 311 ms
+2024-08-05 11:16:33,928 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2024-08-05 11:16:33,939 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8090"]
+2024-08-05 11:16:33,944 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port 8090 (http) with context path '/'
+2024-08-05 11:16:33,955 [restartedMain] INFO  com.log.JrtpLoggingApplication                     - Started JrtpLoggingApplication in 0.52 seconds (process running for 61.121)
+2024-08-05 11:16:33,959 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2024-08-05 11:16:38,259 [http-nio-8090-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 11:16:38,259 [http-nio-8090-exec-2] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2024-08-05 11:16:38,260 [http-nio-8090-exec-2] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 1 ms
+2024-08-05 11:16:38,263 [http-nio-8090-exec-2] INFO  com.log.rest.DemoRestController                    - getWelcomeMsg() execution started
+2024-08-05 11:16:38,264 [http-nio-8090-exec-2] ERROR com.log.rest.DemoRestController                    - Exception Occured / by zero
+2024-08-05 11:16:38,265 [http-nio-8090-exec-2] INFO  com.log.rest.DemoRestController                    - getWelcomeMsg() execution ended
+2024-08-05 11:16:56,724 [http-nio-8090-exec-4] INFO  com.log.rest.DemoRestController                    - getWelcomeMsg() execution started
+2024-08-05 11:16:56,725 [http-nio-8090-exec-4] ERROR com.log.rest.DemoRestController                    - Exception Occured / by zero
+2024-08-05 11:16:56,725 [http-nio-8090-exec-4] INFO  com.log.rest.DemoRestController                    - getWelcomeMsg() execution ended
+2024-08-05 11:21:09,042 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2024-08-05 11:21:09,047 [Thread-7] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-8090"]
+2024-08-05 11:21:12,326 [restartedMain] INFO  com.log.JrtpLoggingApplication                     - Starting JrtpLoggingApplication using Java 17.0.9 with PID 5532 (C:\Users\BP 015\eclipse-workspace\JRTP-Logging\target\classes started by BP 015 in C:\Users\BP 015\eclipse-workspace\JRTP-Logging)
+2024-08-05 11:21:12,327 [restartedMain] INFO  com.log.JrtpLoggingApplication                     - No active profile set, falling back to 1 default profile: "default"
+2024-08-05 11:21:13,209 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port 8090 (http)
+2024-08-05 11:21:13,210 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8090"]
+2024-08-05 11:21:13,211 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2024-08-05 11:21:13,211 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 11:21:13,237 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2024-08-05 11:21:13,238 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 900 ms
+2024-08-05 11:21:13,342 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2024-08-05 11:21:13,349 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8090"]
+2024-08-05 11:21:13,356 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port 8090 (http) with context path '/'
+2024-08-05 11:21:13,361 [restartedMain] INFO  com.log.JrtpLoggingApplication                     - Started JrtpLoggingApplication in 4.107 seconds (process running for 340.527)
+2024-08-05 11:21:13,364 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2024-08-05 11:26:15,526 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-08-05 11:26:15,535 [Thread-11] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-8090"]
+2024-08-05 11:26:15,766 [restartedMain] INFO  com.log.JrtpLoggingApplication                     - Starting JrtpLoggingApplication using Java 17.0.9 with PID 5532 (C:\Users\BP 015\eclipse-workspace\JRTP-Logging\target\classes started by BP 015 in C:\Users\BP 015\eclipse-workspace\JRTP-Logging)
+2024-08-05 11:26:15,767 [restartedMain] INFO  com.log.JrtpLoggingApplication                     - No active profile set, falling back to 1 default profile: "default"
+2024-08-05 11:26:16,000 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port 8090 (http)
+2024-08-05 11:26:16,001 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8090"]
+2024-08-05 11:26:16,001 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2024-08-05 11:26:16,001 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 11:26:16,039 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2024-08-05 11:26:16,039 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 268 ms
+2024-08-05 11:26:16,129 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2024-08-05 11:26:16,137 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8090"]
+2024-08-05 11:26:16,142 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port 8090 (http) with context path '/'
+2024-08-05 11:26:16,149 [restartedMain] INFO  com.log.JrtpLoggingApplication                     - Started JrtpLoggingApplication in 0.422 seconds (process running for 643.315)
+2024-08-05 11:26:16,151 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2024-08-05 11:26:36,636 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 11:26:36,636 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2024-08-05 11:26:36,637 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 0 ms
+2024-08-05 11:26:36,644 [http-nio-8090-exec-1] INFO  com.log.rest.GreetRestController                   - getGreetMsg() execution started...
+2024-08-05 11:26:36,644 [http-nio-8090-exec-1] INFO  com.log.rest.GreetRestController                   - getGreetMsg() execution ended...
+2024-08-05 11:26:42,143 [http-nio-8090-exec-2] INFO  com.log.rest.DemoRestController                    - getWelcomeMsg() execution started
+2024-08-05 11:26:42,144 [http-nio-8090-exec-2] ERROR com.log.rest.DemoRestController                    - Exception Occured / by zero
+2024-08-05 11:26:42,144 [http-nio-8090-exec-2] INFO  com.log.rest.DemoRestController                    - getWelcomeMsg() execution ended
+2024-08-05 11:26:59,519 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-08-05 11:26:59,524 [Thread-15] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-8090"]
+2024-08-05 11:26:59,767 [restartedMain] INFO  com.log.JrtpLoggingApplication                     - Starting JrtpLoggingApplication using Java 17.0.9 with PID 5532 (C:\Users\BP 015\eclipse-workspace\JRTP-Logging\target\classes started by BP 015 in C:\Users\BP 015\eclipse-workspace\JRTP-Logging)
+2024-08-05 11:26:59,768 [restartedMain] INFO  com.log.JrtpLoggingApplication                     - No active profile set, falling back to 1 default profile: "default"
+2024-08-05 11:26:59,992 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port 8090 (http)
+2024-08-05 11:26:59,993 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8090"]
+2024-08-05 11:26:59,993 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2024-08-05 11:26:59,994 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 11:27:00,015 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2024-08-05 11:27:00,015 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 243 ms
+2024-08-05 11:27:00,088 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2024-08-05 11:27:00,095 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8090"]
+2024-08-05 11:27:00,100 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port 8090 (http) with context path '/'
+2024-08-05 11:27:00,106 [restartedMain] INFO  com.log.JrtpLoggingApplication                     - Started JrtpLoggingApplication in 0.379 seconds (process running for 687.272)
+2024-08-05 11:27:00,108 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2024-08-05 11:27:05,203 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 11:27:05,204 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2024-08-05 11:27:05,205 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 1 ms
+2024-08-05 11:27:05,208 [http-nio-8090-exec-1] INFO  com.log.rest.GreetRestController                   - getGreetMsg() execution started...
+2024-08-05 11:27:05,208 [http-nio-8090-exec-1] INFO  com.log.rest.GreetRestController                   - getGreetMsg() execution ended...
+2024-08-05 11:27:09,280 [http-nio-8090-exec-2] INFO  com.log.rest.DemoRestController                    - getWelcomeMsg() execution started
+2024-08-05 11:27:09,280 [http-nio-8090-exec-2] INFO  com.log.rest.DemoRestController                    - getWelcomeMsg() execution ended
+2024-08-05 11:48:35,953 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-08-05 11:48:35,956 [Thread-19] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-8090"]
+2024-08-05 11:48:36,186 [restartedMain] INFO  com.log.JrtpLoggingApplication                     - Starting JrtpLoggingApplication using Java 17.0.9 with PID 5532 (C:\Users\BP 015\eclipse-workspace\JRTP-Logging\target\classes started by BP 015 in C:\Users\BP 015\eclipse-workspace\JRTP-Logging)
+2024-08-05 11:48:36,186 [restartedMain] INFO  com.log.JrtpLoggingApplication                     - No active profile set, falling back to 1 default profile: "default"
+2024-08-05 11:48:36,681 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port 8090 (http)
+2024-08-05 11:48:36,683 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8090"]
+2024-08-05 11:48:36,683 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2024-08-05 11:48:36,684 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 11:48:36,758 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2024-08-05 11:48:36,759 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 568 ms
+2024-08-05 11:48:36,969 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2024-08-05 11:48:36,982 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8090"]
+2024-08-05 11:48:36,987 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port 8090 (http) with context path '/'
+2024-08-05 11:48:36,996 [restartedMain] INFO  com.log.JrtpLoggingApplication                     - Started JrtpLoggingApplication in 0.852 seconds (process running for 1984.162)
+2024-08-05 11:48:36,998 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2024-08-05 11:53:15,992 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 11:53:15,993 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2024-08-05 11:53:15,996 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 3 ms
+2024-08-05 11:53:15,998 [http-nio-8090-exec-1] INFO  com.log.rest.DemoRestController                    - getWelcomeMsg() execution started
+2024-08-05 11:53:16,003 [http-nio-8090-exec-1] ERROR o.a.c.c.C.[.[.[/].[dispatcherServlet]              - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.ArithmeticException: / by zero] with root cause
+java.lang.ArithmeticException: / by zero
+	at com.log.rest.DemoRestController.getWelcomeMsg(DemoRestController.java:20)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:926)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:831)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2024-08-05 11:53:33,775 [http-nio-8090-exec-2] INFO  com.log.rest.GreetRestController                   - getGreetMsg() execution started...
+2024-08-05 11:53:33,775 [http-nio-8090-exec-2] INFO  com.log.rest.GreetRestController                   - getGreetMsg() execution ended...
+2024-08-05 12:36:57,373 [http-nio-8090-exec-5] INFO  com.log.rest.DemoRestController                    - getWelcomeMsg() execution started
+2024-08-05 12:36:57,380 [http-nio-8090-exec-5] ERROR o.a.c.c.C.[.[.[/].[dispatcherServlet]              - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.ArithmeticException: / by zero] with root cause
+java.lang.ArithmeticException: / by zero
+	at com.log.rest.DemoRestController.getWelcomeMsg(DemoRestController.java:20)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:926)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:831)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2024-08-05 16:53:39,086 [RMI TCP Connection(341)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2024-08-05 16:53:43,366 [RMI TCP Connection(341)-127.0.0.1] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-8090"]
+2024-08-05 16:53:45,124 [RMI TCP Connection(341)-127.0.0.1] WARN  org.apache.tomcat.util.net.Acceptor                - The acceptor thread [http-nio-8090-Acceptor] did not stop cleanly
